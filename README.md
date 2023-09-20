@@ -26,3 +26,6 @@
 - Fluent in 日本語(Japanese)
 - little in 中文(Mandarin)
 ```
+
+## Contact
+jkimp657@gmail.com

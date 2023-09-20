@@ -1,7 +1,6 @@
 # Hi, I am a passionate developer, KIM Yubin Jake, loves solving every problem 👋
 - 🌱 I’m currently learning AI Convergence major in Soongsil University, South Korea
 - 🤔 I’m looking for help with ML/DL and Frontend Development
-- 😄 Pronouns: Kim "Yoo"bin Jake (pronounce it exactly as it says!)
 
 ## Skills
 **Computer Languages 💻**  

@@ -19,6 +19,10 @@
 ![Static Badge](https://img.shields.io/badge/pytorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/tensorflow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF)
 
+**Online Judge Tier**
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jakepro657)](https://solved.ac/jakepro657/)
+
 **Reallife Languages 💬**
 ```
 - Native in 한국어(Korean)

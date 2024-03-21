@@ -1,6 +1,19 @@
-# Hi, I am a passionate developer, Jake Yubin KIM, loves solving every problem 👋
+# Hi, I am a passionate developer, Jake Yubin KIM, love solving every problem 👋
 - 🌱 I’m currently learning AI Convergence major in Soongsil University, South Korea
 - 🤔 I’m looking for help with ML/DL and Frontend Development
+
+## Career Experience
+- **"Company T", Nov. 2024 ~ (Currently Working)**
+
+## Education and Training
+- Currently studying in **Soongsil University**
+- Major in **AI Convergence**
+- Convergence Major in **Big Data Convergence**
+
+## Developer Career
+- **Prometheus Hackathon**: Advanced to the finals by entering the top 20%
+- **Exhibition in Soongsil University Central Student Club Union**: Displayed Project Photoisk and Loveconnect at the club booth
+- **Project Yolog**: Enhanced development of the idea utilized in the Prometheus Hackathon
 
 ## Skills
 **Computer Languages 💻**  
@@ -25,11 +38,16 @@
 
 **Reallife Languages 💬**
 ```
-- Native in 한국어(Korean)
-- Fluent in English
-- Fluent in 日本語(Japanese)
-- little in 中文(Mandarin)
+Native in 한국어(Korean)
+Fluent in English
+Fluent in 日本語(Japanese)
+little in 中文(Mandarin)
 ```
 
+## Websites
+- https://velog.io/@jakepro657/posts
+- https://jakepro.tistory.com/
+
 ## Contact
-jkimp657@gmail.com
+- jkimp657@gmail.com
+

@@ -13,7 +13,7 @@
 ## Developer Career
 - **Prometheus Hackathon**: Advanced to the finals by entering the top 20%
 - **Exhibition in Soongsil University Central Student Club Union**: Displayed Project Photoisk and Loveconnect at the club booth
-- **Project Yolog**: Enhanced development of the idea utilized in the Prometheus Hackathon
+- **Project Yolog**: AI travel diary-keeping service, which enhanced development of the idea utilized in the Prometheus Hackathon
 
 ## Skills
 **Computer Languages 💻**  

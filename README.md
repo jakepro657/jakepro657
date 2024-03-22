@@ -3,7 +3,7 @@
 - 🤔 I’m looking for help with ML/DL and Frontend Development
 
 ## Career Experience
-- **"Company T", Nov. 2024 ~ (Currently Working)**
+- **"Company T", Nov. 2023 ~ (Currently Working)**
 
 ## Education and Training
 - Currently studying in **Soongsil University**

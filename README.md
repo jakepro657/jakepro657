@@ -13,7 +13,9 @@
 ## Developer Career
 - **Prometheus Hackathon**: Advanced to the finals by entering the top 20%
 - **Exhibition in Soongsil University Central Student Club Union**: Displayed Project Photoisk and Loveconnect at the club booth
-- **Project Yolog**: AI travel diary-keeping service, which enhanced development of the idea utilized in the Prometheus Hackathon
+- **Project Photoisk**: An AI-Powered Photo Booth Service, an All-in-One Solution Capable of Printing Real Photos
+- **Project Loveconnect**: An AI-Powered Dating Simulation Chatbot with Gamification Elements
+- **AI Counseling Service**: Development of an AI psychological counseling service through prompting and fine-tuning
 
 ## Skills
 **Computer Languages 💻**  
@@ -45,8 +47,10 @@ little in 中文(Mandarin)
 ```
 
 ## Websites
+- https://jakepro.tistory.com
 - https://velog.io/@jakepro657/posts
-- https://jakepro.tistory.com/
+- [Project demo: Loveconnect] https://loveconnect.vercel.app
+- ~~[Project demo: Photoisk] https://photoisk.com~~ Maintenance Currently Halted
 
 ## Contact
 - jkimp657@gmail.com

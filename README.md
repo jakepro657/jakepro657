@@ -1,4 +1,4 @@
-# Hi, I am a passionate developer, Jake Yubin KIM, love solving every problem 👋
+# Hi, I am a passionate developer, Jake Yeuben KIM, love solving every problem 👋
 - 🌱 I’m currently learning AI Convergence major in Soongsil University, South Korea
 - 🤔 I’m looking for help with ML/DL and Frontend Development
 

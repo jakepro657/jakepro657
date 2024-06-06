@@ -50,7 +50,7 @@ little in 中文(Mandarin)
 - https://jakepro.tistory.com
 - https://velog.io/@jakepro657/posts
 - [Project demo: Loveconnect] https://loveconnect.vercel.app
-- ~~[Project demo: Photoisk] https://photoisk.com~~ Maintenance Currently Halted
+- [Project demo: Photoisk] https://photoisk.com
 
 ## Contact
 - jkimp657@gmail.com

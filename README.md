@@ -8,7 +8,7 @@ Click the notion badge above to see portfolio
 - 🤔 I’m looking for help with ML/DL and Frontend Development
 
 ## Career Experience
-- **Talelorz Corp., Nov. 2023 ~ (Currently Working)**
+- **Talelorz Corp., Nov. 2023 ~ May 2024**
 
 ## Education and Training
 - Currently studying in **Soongsil University**

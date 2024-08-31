@@ -22,6 +22,15 @@ Click the notion badge above to see portfolio
 - **Project Loveconnect**: An AI-Powered Dating Simulation Chatbot with Gamification Elements
 - **AI Counseling Service**: Development of an AI psychological counseling service through prompting and fine-tuning
 
+## Competitions and Contests
+
+- **Finalist in the 2024 Next-Generation Semiconductor Competition, System/Software Division (Aug 2024)**
+- **Grand Prize Winner of the 2024 Google X Mashup Ventures GenAI Sprint (Aug 2024)**
+- **Encouragement Award in the 2024 Startup Competition for National Happiness Services Utilizing Social Security and Public-Private Big Data (Aug 2024)**
+- **Excellence Award in the Service Development Category at the 12th Ministry of Trade, Industry, and Energy Public Data Utilization Idea Contest (Jul 2024)**
+- **Silver Award in the 2024 Soongsil University Computer Science Department Software Competition (Jul 2024)**
+- Finalist and Completion of the 2024 Prometheus AI Hackathon (Feb 2024)
+
 ## Skills
 **Computer Languages 💻**  
   

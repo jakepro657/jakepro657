@@ -3,7 +3,7 @@
 
 Click the notion badge above to see portfolio
 
-# Hi, I am a passionate developer, Michael Yeuben KIM, love solving every problem 👋
+# Hi, I am a passionate developer, Michael Yubin KIM, love solving every problem 👋
 - 🌱 I’m currently learning AI Convergence major in Soongsil University, South Korea
 - 🤔 I’m looking for help with ML/DL and Frontend Development
 

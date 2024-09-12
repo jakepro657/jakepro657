@@ -7,29 +7,58 @@ Click the notion badge above to see portfolio
 - 🌱 I’m currently learning AI Convergence major in Soongsil University, South Korea
 - 🤔 I’m looking for help with ML/DL and Frontend Development
 
-## Career Experience
-- **Talelorz Corp., Nov. 2023 ~ May 2024**
+## Key Areas
 
-## Education and Training
-- Currently studying in **Soongsil University**
-- Major in **AI Convergence**
-- Convergence Major in **Big Data Convergence**
+- `ML/DL`
+- `Edge AI`
+- `Frontend Development`
 
-## Developer Career
-- **Prometheus Hackathon**: Advanced to the finals by entering the top 20%
-- **Exhibition in Soongsil University Central Student Club Union**: Displayed Project Photoisk and Loveconnect at the club booth
-- **Project Photoisk**: An AI-Powered Photo Booth Service, an All-in-One Solution Capable of Printing Real Photos
-- **Project Loveconnect**: An AI-Powered Dating Simulation Chatbot with Gamification Elements
-- **AI Counseling Service**: Development of an AI psychological counseling service through prompting and fine-tuning
+## Background
 
-## Competitions and Contests
+### Education
 
-- **Finalist in the 2024 Next-Generation Semiconductor Competition, System/Software Division (Aug 2024)**
-- **Grand Prize Winner of the 2024 Google X Mashup Ventures GenAI Sprint (Aug 2024)**
-- **Encouragement Award in the 2024 Startup Competition for National Happiness Services Utilizing Social Security and Public-Private Big Data (Aug 2024)**
-- **Excellence Award in the Service Development Category at the 12th Ministry of Trade, Industry, and Energy Public Data Utilization Idea Contest (Jul 2024)**
-- **Silver Award in the 2024 Soongsil University Computer Science Department Software Competition (Jul 2024)**
-- Finalist and Completion of the 2024 Prometheus AI Hackathon (Feb 2024)
+- Entered the Convergence Specialization Interdisciplinary Major Program at Soongsil University (Mar. 2022 - Feb. 2023)
+- **Currently studying at Soongsil University’s School of AI Convergence (Mar. 2023 - Present)**
+- **Double majoring in Big Data Convergence at Soongsil University (Mar. 2023 - Present)**
+
+### Work Experience
+
+- Instructor at “C” Coding Academy (Jul. 2024 - Present)
+    - Teaching C++ and Arduino classes
+    - Leading projects for domestic and international competitions
+- Freelance Developer (Jul. 2024)
+    - Developed the website for the “S” AI Book Review Contest
+    - Developed the website for the “S” AI Writing Contest
+- **Full-stack Software Developer at Talelorz (Nov. 2023 - May 2024)**
+    - Developed Hearlers, an AI psychological counseling platform
+    - Participated in the development of Talelorz, an AI daily novel platform
+    - Developed internal systems for “S” Bank
+    - Built a web solution for the “J” Book Review Contest
+    - Developed B2B mini content services for Lotte World Ice Rink
+    - Developed B2B mini content services for theme cafes
+- Coding Education Part-Time Instructor at Daegun IT Academy (Nov. 2022 - May 2023)
+
+### Competitions and Awards
+
+- ~~Participated in the 2024 AI Utilization Contest for Biological Research Resources (Sep. 2024)~~
+- Finalist in the System/Software Category at the 2024 Next-Generation Semiconductor Competition (Aug. 2024)
+- **Winner of the 2024 Google X Mashup Ventures GenAI Sprint (Aug. 2024)**
+- **Honorable Mention at the 2024 Startup Competition for Public and Private Big Data-based Citizen Happiness Services (Aug. 2024)**
+- **Excellence Award in the Service Development Category of the 12th Public Data Utilization Contest by the Ministry of Trade, Industry and Energy (Jul. 2024)**
+- Finalist in the 2024 Hanium Mentoring ICT Contest (Jul. 2024)
+- **Silver Award at the 2024 Soongsil University Computer Science Software Contest (Jul. 2024)**
+- Finalist and Participant in the 2024 Prometheus AI Hackathon (Feb. 2024)
+- **Iljin Entrepreneurship Award at the Korea University Startup Express (Nov. 2023)**
+- **Best Award at the Korea University College of Information Idea Startup Competition (Nov. 2023)**
+- Participant in the 2023 SCON Algorithm Competition (May 2023)
+- Participant in the 2022 Statistics Korea Big Data Utilization AI Contest (Apr. 2022)
+
+### Community Activities
+
+- **4th Member of VERITROSS AI R&D Society (Sep. 2024 - Present)**
+- Organizer of the SSCC ML Study Group (Sep. 2024 - Present)
+- **41st Member of the Soongsil University Computing Club SSCC (2023 - Present)**
+- Exhibited work at the Spring 2024 Club Union Fair hosted by Soongsil University (Mar. 2024)
 
 ## Skills
 **Computer Languages 💻**  

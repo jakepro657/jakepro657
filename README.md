@@ -40,8 +40,6 @@ Click the notion badge above to see portfolio
 
 ### Competitions and Awards
 
-- ~~Participated in the 2024 AI Utilization Contest for Biological Research Resources (Sep. 2024)~~
-- Finalist in the System/Software Category at the 2024 Next-Generation Semiconductor Competition (Aug. 2024)
 - **Winner of the 2024 Google X Mashup Ventures GenAI Sprint (Aug. 2024)**
 - **Honorable Mention at the 2024 Startup Competition for Public and Private Big Data-based Citizen Happiness Services (Aug. 2024)**
 - **Excellence Award in the Service Development Category of the 12th Public Data Utilization Contest by the Ministry of Trade, Industry and Energy (Jul. 2024)**

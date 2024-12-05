@@ -36,7 +36,7 @@ Click the notion badge above to see portfolio
     - Built a web solution for the “J” Book Review Contest
     - Developed B2B mini content services for Lotte World Ice Rink
     - Developed B2B mini content services for theme cafes
-- Coding Education Part-Time Instructor at Daegun IT Academy (Nov. 2022 - May 2023)
+- Coding Education Part-Time Instructor at "D" IT Academy (Nov. 2022 - May 2023)
 
 ### Competitions and Awards
 

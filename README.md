@@ -1,11 +1,4 @@
-# Notion Portfolio
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://golden-bladder-353.notion.site/b12ae90898f44eaea9899036dabd0e04?pvs=4)
-
-Click the notion badge above to see portfolio
-
 # Hi, I am a passionate developer, Michael Yubin KIM, love solving every problem 👋
-- 🌱 I’m currently learning AI Convergence major in Soongsil University, South Korea
-- 🤔 I’m looking for help with ML/DL and Frontend Development
 
 ## Key Areas
 

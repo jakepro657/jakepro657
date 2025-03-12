@@ -46,7 +46,6 @@
 
 ### Community Activities
 
-- **4th Member of VERITROSS AI R&D Society (Sep. 2024 - Present)**
 - Organizer of the SSCC ML Study Group (Sep. 2024 - Present)
 - **41st Member of the Soongsil University Computing Club SSCC (2023 - Present)**
 - Exhibited work at the Spring 2024 Club Union Fair hosted by Soongsil University (Mar. 2024)

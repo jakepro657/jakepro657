@@ -1,10 +1,12 @@
 # Hi, I am a passionate developer, Michael Yubin KIM.
 
 ## Key Areas
-
 - `ML/DL`
 - `Computational Psychology`
 - `Frontend Development`
+
+## Key Public Projects
+- Refer to six projects pinned on the bottom of this page.
 
 ## Project Demos
 - **성지AI**

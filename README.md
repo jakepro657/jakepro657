@@ -6,7 +6,7 @@
 - `Frontend Development`
 
 ## Key Public Projects
-- Refer to six projects pinned below.
+- Refer to projects pinned below.
 
 ## Project Demos
 - **성지AI**

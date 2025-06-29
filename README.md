@@ -2,7 +2,6 @@
 
 ## Key Areas
 - `ML/DL`
-- `Computational Psychology`
 - `Frontend Development`
 
 ## Key Public Projects
@@ -14,7 +13,7 @@
 [URL] [sungji-ai.com](http://sungji-ai.com)
 
 - **Photoisk** (현재 업데이트 중)
-지역 기반 핫플레이스 추천 및 AI 사진 SNS 플랫폼
+애니메이션/웹툰 제작 AI 서비스
 [URL] [photoisk.com](http://photoisk.com)
 
 ## Contact

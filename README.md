@@ -13,7 +13,6 @@
 [URL] [sungji-ai.com](http://sungji-ai.com)
 
 - **Photoisk** (현재 업데이트 중)
-애니메이션/웹툰 제작 AI 서비스
 [URL] [photoisk.com](http://photoisk.com)
 
 ## Contact

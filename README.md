@@ -27,7 +27,7 @@
 - **CTO**, OIM (slit.)
 
 - **Instructor**, *"C" Coding Academy*  
-  *(Jul. 2024 - Present)*  
+  *(Jul. 2024 - 2025)*  
   - Teaching C++ and Arduino classes  
   - Leading projects for domestic & international competitions
 

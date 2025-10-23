@@ -24,7 +24,7 @@
 
 ## 💼 Work Experience
 
-- **CTO**, OIM (Sungji AI)
+- **CTO**, OIM (slit.)
 
 - **Instructor**, *"C" Coding Academy*  
   *(Jul. 2024 - Present)*  
@@ -67,7 +67,7 @@
 ## 🌏 Community Activities
 
 - **Organizer**, *SSCC ML Study Group* *(Sep. 2024 - Present)*  
-- **41st Member**, *Soongsil University Computing Club SSCC* *(2023 - Present)*  
+- **41st Member**, *Soongsil University Computing Club SSCC* *(2023 - 2025)*  
 - Exhibited work at **Spring 2024 Club Union Fair**, Soongsil University *(Mar. 2024)*
 
 ---
@@ -91,10 +91,10 @@
 
 ---
 
-## Project Demos
-- **성지AI**
+## Project
+- **Slit**
 핸드폰 맞춤형 요금제 추천 플랫폼
-[URL] [sungji-ai.com](http://sungji-ai.com)
+[URL] [slit.one](https://slit.one)
 
 ---
 

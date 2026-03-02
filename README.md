@@ -96,6 +96,14 @@
 핸드폰 맞춤형 요금제 추천 플랫폼
 [URL] [slit.one](https://slit.one)
 
+- **ai-photoisk**
+AI를 활용한 사진 촬영 키오스크 서비스
+[URL] [Photoisk](https://photoisk.com)
+
+- **UNTBT**
+무역기술장벽(TBT) 통관 예측 솔루션
+[URL] [UNTBT](https://untbt.com)
+
 ---
 
 ## 📬 Contact

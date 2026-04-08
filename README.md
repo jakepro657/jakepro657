@@ -104,6 +104,10 @@ AI를 활용한 사진 촬영 키오스크 서비스
 무역기술장벽(TBT) 통관 예측 솔루션
 [URL] [UNTBT](https://untbt.com)
 
+- **nomathapp**
+수능 수학 문제를 "평가원스럽게" AI로 생성하는 서비스
+[URL] [Nomathapp](https://nomathapp.vercel.app)
+
 ---
 
 ## 📬 Contact

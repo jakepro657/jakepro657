@@ -25,6 +25,7 @@
 ## 💼 Work Experience
 
 - **CTO**, OIM (slit.)
+  *(Aug. 2024 - May 2026)*
 
 - **Instructor**, *"C" Coding Academy*  
   *(Jul. 2024 - 2025)*  
